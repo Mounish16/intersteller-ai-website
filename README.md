@@ -11,6 +11,22 @@ This repository is a showcase. It describes the project and includes a few sampl
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-4-38BDF8)
 
+## Screenshots
+
+Captured from the live site at [intersteller.co.uk](https://intersteller.co.uk).
+
+**Home page**: animated dot-field background and a particle wordmark that assembles itself.
+
+![Home page](docs/screenshots/01-home.png)
+
+**Platform page**: an interactive deployment-model selector and the Plasma digital-thread diagram.
+
+![Platform sections](docs/screenshots/02-platform.png)
+
+**Pricing**: team and individual plans, with add-ons that update a live licence summary.
+
+![Pricing](docs/screenshots/03-pricing.png)
+
 ## What I built
 
 - A multi-page marketing site of about 30 routes: home, products, industries, pricing, company, blog, docs, legal pages and demo booking.
